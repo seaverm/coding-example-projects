@@ -1,0 +1,10 @@
+C:\Users\Matthew Seaver\Desktop\Programming Projects\BalancedSubstring\BalancedSubstring\bin\Debug\BalancedSubstring.exe.config
+C:\Users\Matthew Seaver\Desktop\Programming Projects\BalancedSubstring\BalancedSubstring\bin\Debug\BalancedSubstring.exe
+C:\Users\Matthew Seaver\Desktop\Programming Projects\BalancedSubstring\BalancedSubstring\bin\Debug\BalancedSubstring.pdb
+C:\Users\Matthew Seaver\Desktop\Programming Projects\BalancedSubstring\BalancedSubstring\obj\Debug\BalancedSubstring.csproj.AssemblyReference.cache
+C:\Users\Matthew Seaver\Desktop\Programming Projects\BalancedSubstring\BalancedSubstring\obj\Debug\BalancedSubstring.StringInput.resources
+C:\Users\Matthew Seaver\Desktop\Programming Projects\BalancedSubstring\BalancedSubstring\obj\Debug\BalancedSubstring.Properties.Resources.resources
+C:\Users\Matthew Seaver\Desktop\Programming Projects\BalancedSubstring\BalancedSubstring\obj\Debug\BalancedSubstring.csproj.GenerateResource.cache
+C:\Users\Matthew Seaver\Desktop\Programming Projects\BalancedSubstring\BalancedSubstring\obj\Debug\BalancedSubstring.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Seaver\Desktop\Programming Projects\BalancedSubstring\BalancedSubstring\obj\Debug\BalancedSubstring.exe
+C:\Users\Matthew Seaver\Desktop\Programming Projects\BalancedSubstring\BalancedSubstring\obj\Debug\BalancedSubstring.pdb
