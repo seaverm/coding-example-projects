@@ -1,0 +1,15 @@
+Program and Code by Matthew Seaver
+
+
+This Code does the following: 
+Given a string of upper and lower case characters, calculate the smallest allowable balanced substring that 
+has at least one iteration of all upper and lowercase characters of the original string. 
+If the String does not have an upper or lower case equivalent of all characters, then there is no balanced string. 
+ 
+
+Example:
+Input: "azABaabba"
+output: "ABaab
+
+Input:"Technocat"
+Output: "No balanced substring exists."
