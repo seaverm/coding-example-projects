@@ -1,0 +1,17 @@
+C:\Users\mattn\OneDrive\Desktop\Coding Challenges\PigLatinWriter\bin\Debug\net6.0-windows\PigLatinWriter.exe
+C:\Users\mattn\OneDrive\Desktop\Coding Challenges\PigLatinWriter\bin\Debug\net6.0-windows\PigLatinWriter.deps.json
+C:\Users\mattn\OneDrive\Desktop\Coding Challenges\PigLatinWriter\bin\Debug\net6.0-windows\PigLatinWriter.runtimeconfig.json
+C:\Users\mattn\OneDrive\Desktop\Coding Challenges\PigLatinWriter\bin\Debug\net6.0-windows\PigLatinWriter.dll
+C:\Users\mattn\OneDrive\Desktop\Coding Challenges\PigLatinWriter\bin\Debug\net6.0-windows\PigLatinWriter.pdb
+C:\Users\mattn\OneDrive\Desktop\Coding Challenges\PigLatinWriter\obj\Debug\net6.0-windows\PigLatinWriter.csproj.AssemblyReference.cache
+C:\Users\mattn\OneDrive\Desktop\Coding Challenges\PigLatinWriter\obj\Debug\net6.0-windows\PigLatinWriter.Form1.resources
+C:\Users\mattn\OneDrive\Desktop\Coding Challenges\PigLatinWriter\obj\Debug\net6.0-windows\PigLatinWriter.csproj.GenerateResource.cache
+C:\Users\mattn\OneDrive\Desktop\Coding Challenges\PigLatinWriter\obj\Debug\net6.0-windows\PigLatinWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattn\OneDrive\Desktop\Coding Challenges\PigLatinWriter\obj\Debug\net6.0-windows\PigLatinWriter.AssemblyInfoInputs.cache
+C:\Users\mattn\OneDrive\Desktop\Coding Challenges\PigLatinWriter\obj\Debug\net6.0-windows\PigLatinWriter.AssemblyInfo.cs
+C:\Users\mattn\OneDrive\Desktop\Coding Challenges\PigLatinWriter\obj\Debug\net6.0-windows\PigLatinWriter.csproj.CoreCompileInputs.cache
+C:\Users\mattn\OneDrive\Desktop\Coding Challenges\PigLatinWriter\obj\Debug\net6.0-windows\PigLatinWriter.dll
+C:\Users\mattn\OneDrive\Desktop\Coding Challenges\PigLatinWriter\obj\Debug\net6.0-windows\refint\PigLatinWriter.dll
+C:\Users\mattn\OneDrive\Desktop\Coding Challenges\PigLatinWriter\obj\Debug\net6.0-windows\PigLatinWriter.pdb
+C:\Users\mattn\OneDrive\Desktop\Coding Challenges\PigLatinWriter\obj\Debug\net6.0-windows\PigLatinWriter.genruntimeconfig.cache
+C:\Users\mattn\OneDrive\Desktop\Coding Challenges\PigLatinWriter\obj\Debug\net6.0-windows\ref\PigLatinWriter.dll
